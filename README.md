@@ -1,2 +1,2 @@
 # swc-practice
-Practice rep for SWC (August 2015)
+Practice repo for SWC (August 2015)
